@@ -10,6 +10,6 @@ namespace Webapi
     public class userAssignment
     {
      public String AssignmentName { get; set; }
-     publicint AssignmentNo { get; set; }
+     public int AssignmentNo { get; set; }
     }
 }

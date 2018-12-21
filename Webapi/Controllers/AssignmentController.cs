@@ -17,7 +17,7 @@ namespace Webapi.Controllers
         { }
         public void Delete(int id)
         { }
-        protected override void Executecore()
+        protected  void Executecore()
         {
             throw new NotImplementedException();
         }

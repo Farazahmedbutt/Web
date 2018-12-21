@@ -13,7 +13,7 @@ namespace Webapi.Controllers
     {
         public void POST([FromBody]string value)
         { }
-        protected override void Executecore()
+        protected void Executecore()
         {
             throw new NotImplementedException();
         }
